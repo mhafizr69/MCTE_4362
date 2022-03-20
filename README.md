@@ -45,3 +45,17 @@ Robotic Hardware Components:
    - Types of power supply. AC, DC cables. Batteries. Engin. Renewable Energy. 
   
 </details>
+
+----
+
+## Week 2: Controllers
+
+Controllers are a fundamental part of control engineering and used in all complex control systems. It controls all the inputs and outputs of a system.
+
+A few types of controllers:
+
+- Microcontroller (MCU)
+- Single-Board Computer (SBC)
+- Edge AI
+- Flight controller
+- Programmable Logic Controller (PLC)
