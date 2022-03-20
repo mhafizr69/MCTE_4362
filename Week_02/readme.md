@@ -64,8 +64,40 @@ A specialized device intended to be used in applications where you have sensor i
 
 ## 3. Edge AI Controller
 
+Edge AI is the deployment of AI applications in devices throughout the physical world. It’s called “edge AI” because the AI computation is done near the user at the edge of the network, close to where the data is located, rather than centrally in a cloud computing facility or private data center.
 
+Edge AI is typically used for inference, whereas cloud AI is utilised to train new algorithms. Inferencing algorithms use a fraction of the computing power and energy that training methods do. As a result, well-designed inferencing algorithms are sometimes implemented in edge devices using current CPUs or even less powerful microcontrollers. In other circumstances, highly efficient AI processors boost inferencing performance while lowering power consumption or doing both.
 
+The advantages of Edge AI from the conventional Cloud AI are:
+
+<details>
+<summary>Reduced latency/higher speeds.</summary>
+Inferencing is performed locally, eliminating delays in communicating with the cloud and waiting for the response.
+</details>
+
+<details>
+<summary>Reduced bandwidth requirement and cost.</summary>
+Edge AI reduces the bandwidth and associated costs for shipping voice, video and high-fidelity sensor data over cell networks.
+</details>
+  
+<details>
+<summary>Increased data security.</summary>
+Data is processed locally, which reduces the risk that sensitive data is stored in the cloud or intercepted in transit.
+</details>
+  
+<details>
+<summary>Improved reliability/autonomous technology.</summary>
+The AI can continue to operate even if the network or cloud service goes down, which is critical for applications such as autonomous cars and industrial robots.
+</details>
+  
+<details>
+<summary>Reduced power.</summary>
+Many AI tasks can be performed with less energy on the device than would be required to send the data to the cloud, thus extending battery life.
+</details>
+ 
+ 
+ 
+ 
 
 
 
