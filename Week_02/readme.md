@@ -72,32 +72,52 @@ The advantages of Edge AI from the conventional Cloud AI are:
 
 <details>
 <summary>Reduced latency/higher speeds.</summary>
-Inferencing is performed locally, eliminating delays in communicating with the cloud and waiting for the response.
+  
+- Inferencing is performed locally, eliminating delays in communicating with the cloud and waiting for the response.
+
 </details>
 
 <details>
 <summary>Reduced bandwidth requirement and cost.</summary>
-Edge AI reduces the bandwidth and associated costs for shipping voice, video and high-fidelity sensor data over cell networks.
+  
+- Edge AI reduces the bandwidth and associated costs for shipping voice, video and high-fidelity sensor data over cell networks.
+
 </details>
   
 <details>
 <summary>Increased data security.</summary>
-Data is processed locally, which reduces the risk that sensitive data is stored in the cloud or intercepted in transit.
+  
+- Data is processed locally, which reduces the risk that sensitive data is stored in the cloud or intercepted in transit.
+
 </details>
   
 <details>
 <summary>Improved reliability/autonomous technology.</summary>
-The AI can continue to operate even if the network or cloud service goes down, which is critical for applications such as autonomous cars and industrial robots.
+  
+- The AI can continue to operate even if the network or cloud service goes down, which is critical for applications such as autonomous cars and industrial robots.
+
 </details>
   
 <details>
 <summary>Reduced power.</summary>
-Many AI tasks can be performed with less energy on the device than would be required to send the data to the cloud, thus extending battery life.
+  
+- Many AI tasks can be performed with less energy on the device than would be required to send the data to the cloud, thus extending battery life.
+
 </details>
+
+### Some Edge AI controllers in the market
+
+- Jetson Nano by NVidia
+
+<img src = "https://developer-blogs.nvidia.com/wp-content/uploads/2019/03/Jetson-Nano_3QTR-Front_Left-1920px-625x473.png" width = "480" height = "320">
  
+ - SK-TDA4VM by Texas Instrument
  
+ <img src = "https://www.ti.com/content/dam/ticom/images/products/ic/processors/evm-boards/j721exskg01evm-angled.png:large" width = "480" height = "320">
  
+ ------
  
+ ## 4. Microcontroller
 
 
 
