@@ -7,7 +7,7 @@ All the controllers have their own advantages to one another depending on the ta
 This table shows the specifications comparison between some of the popular type of controllers.
 
 
-![Comparison between controllers](https://github.com/mhafizr69/MCTE_4342_EmbeddedSystemDesign/blob/main/Week_14/ControllerComparisonTable.png)
+![Comparison between controllers](./ControllerComparisonTable.png)
 
 -----
 
