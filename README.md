@@ -1,5 +1,7 @@
 # MCTE 4362: ROBOTIC HARDWARE SYSTEM
 
+----
+
 ## Week 1: Introduction to Robotic Hardware System
 
 Robotic Hardware Components:
