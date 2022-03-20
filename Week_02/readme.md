@@ -107,13 +107,17 @@ The advantages of Edge AI from the conventional Cloud AI are:
 
 ### Some Edge AI controllers in the market
 
-- Jetson Nano by NVidia
+<details>
+<summary>Jetson Series by NVidia</summary>
 
-<img src = "https://developer-blogs.nvidia.com/wp-content/uploads/2019/03/Jetson-Nano_3QTR-Front_Left-1920px-625x473.png" width = "480" height = "320">
+<img src = "https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetson-family/jetson-family-devkit-devzone-853x298.jpg" width = "900" height = "320">
+</details>
+   
+<details> 
+<summary>SK-TDA4VM by Texas Instrument</summary>
  
- - SK-TDA4VM by Texas Instrument
- 
- <img src = "https://www.ti.com/content/dam/ticom/images/products/ic/processors/evm-boards/j721exskg01evm-angled.png:large" width = "480" height = "320">
+<img src = "https://www.ti.com/content/dam/ticom/images/products/ic/processors/evm-boards/j721exskg01evm-angled.png:large" width = "480" height = "320">
+</details>
  
  ------
  
