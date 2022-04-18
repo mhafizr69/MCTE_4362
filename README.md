@@ -64,4 +64,18 @@ A few types of controllers:
 
 ----
 
-## Week 
+## Week 3: Unmanned Grounded Vehicle (UGV)
+
+----
+
+## Week 4: Sensors - Perception
+
+----
+
+## Week 5: Unmanned Aerial Vehicle (UAV)
+
+----
+
+## Week 6: Locomotion
+
+
