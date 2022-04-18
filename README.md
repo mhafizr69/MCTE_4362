@@ -82,7 +82,7 @@ A sensor is a device that detects and responds to some type of input from the ph
 
 An unmanned aerial vehicle (UAV), commonly known as a drone, is an aircraft without any human pilot, crew, or passengers on board. UAVs are a component of an unmanned aircraft system (UAS), which includes adding a ground-based controller and a system of communications with the UAV. The flight of UAVs may operate under remote control by a human operator, as remotely-piloted aircraft (RPA), or with various degrees of autonomy, such as autopilot assistance, up to fully autonomous aircraft that have no provision for human intervention.
 
-<img src = "https://www5.djicdn.com/cms_uploads/product_comparison/cover/52/small_895bd851d5dd9820148f8a5f2d3c53f7%402x.jpg" width = "320" height = "320"><img src = "https://www.cameralabs.com/wp-content/uploads/2021/02/DJI-FPV-Hover-crop.jpg" width = "570" height = "320">
+<img src = "https://www5.djicdn.com/cms_uploads/product_comparison/cover/52/small_895bd851d5dd9820148f8a5f2d3c53f7%402x.jpg" width = "320" height = "320"><img src = "https://www.cameralabs.com/wp-content/uploads/2021/02/DJI-FPV-Hover-crop.jpg" width = "400" height = "320">
 
 ----
 
