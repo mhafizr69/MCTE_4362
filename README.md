@@ -68,7 +68,7 @@ A few types of controllers:
 
 An unmanned ground vehicle (UGV) is a vehicle that operates while in contact with the ground and without an onboard human presence. UGVs can be used for many applications where it may be inconvenient, dangerous, or impossible to have a human operator present. Generally, the vehicle will have a set of sensors to observe the environment, and will either autonomously make decisions about its behavior or pass the information to a human operator at a different location who will control the vehicle through teleoperation.
 
-<img src = "https://www.researchgate.net/profile/Emmanuel-Nuno/publication/33421071/figure/fig2/AS:394294063058951@1471018438575/Figura-5-Sojourner-NASA-JPL-9.png" width = "427" height = "320"><img src = "https://i.rtings.com/assets/products/7GW60hMa/irobot-roomba-675/design-medium.jpg" width = "570" height = "320">
+<img src = "https://www.researchgate.net/profile/Emmanuel-Nuno/publication/33421071/figure/fig2/AS:394294063058951@1471018438575/Figura-5-Sojourner-NASA-JPL-9.png" width = "353" height = "320"><img src = "https://i.rtings.com/assets/products/7GW60hMa/irobot-roomba-675/design-medium.jpg" width = "472" height = "320">
 
 ----
 
